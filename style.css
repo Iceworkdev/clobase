@@ -1,0 +1,13 @@
+body {
+  color: white;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+bg {
+  background-image: url("https://images6.alphacoders.com/129/1297018.png");
+  background-color: #cccccc;
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
